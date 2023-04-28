@@ -71,7 +71,7 @@ setState(() {
                 children: <Widget>[
                   Text(
                     data['location'],style: TextStyle(
-                    color: Colors.white,
+                    color: Colors.blue,
                     fontSize: 28,letterSpacing: 2),
 
                   )
